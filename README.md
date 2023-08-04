@@ -2,6 +2,7 @@
 AmbientesComputacionales2
 
 Lista de estudiantes: 
-Anthony Flores
 
+Anthony Flores
+Johan Hidrobo
 
