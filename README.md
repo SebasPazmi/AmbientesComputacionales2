@@ -3,6 +3,8 @@ AmbientesComputacionales2
 
 Lista de estudiantes: 
 
+Jorge Revelo
+
 Paul Viracucha
 
 Andres Quiroga
